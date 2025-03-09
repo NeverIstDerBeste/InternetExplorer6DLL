@@ -1,3 +1,6 @@
+# Credits
+Everything from Internet Explorer is from Windows aka Microsoft, i just got Stuff from a DLL File!
+
 # InternetExplorer6DLL
 This are Inside the Internet Explorer 6 DLL (shdoclc.dll) DLL from Windows 2000
 
